@@ -8,5 +8,5 @@ A repo that helps you learn PyTorch and Python - It provides step by steps guide
 For installing PyTorch on Google's Colab use the folloing command.
 
 ```python
-!pip install -q torch==1.0.0 torchvision
+!pip3 install http://download.pytorch.org/whl/cu80/torch-0.3.0.post4-cp36-cp36m-linux_x86_64.whl 
 ```
